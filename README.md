@@ -1,3 +1,3 @@
 ## Notes:
-## ** This 
-### ** This interpreter was written for CSE305 - Introduction to Programming Languages at the University at Buffalo for the Summer 22' semester **
+## ** This repository is incomplete as the full
+### ** This interpreter was written as a term project for CSE305 - Introduction to Programming Languages at the University at Buffalo **
